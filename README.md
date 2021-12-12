@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Dulanjaya Sandaruwan .</h1>
+<h1 align="center">Hi 👋, I'm Dulanjaya Sandaruwan .</h1>
 <h3 align="center">Hello , I am from Sri Lanka , I am a full stack developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanjayasandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="dulanjayasandaruwan" /> </p>
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@dulanjayasanda2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dulanjayasanda2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dulanjaya sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulanjaya sandaruwan" height="30" width="40" /></a>
+<a href="https://fb.com/dulanjaya sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulanjaya sandaruwan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
