@@ -13,7 +13,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/GathsaraH/GathsaraH/issues"><b>here</b></a><br>
-or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
+or <a href="mailto:dulanjayasandaruwan1998@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
@@ -23,18 +23,13 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 
 <p align="center">
 <a href="">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GathsaraH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GathsaraH&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DulanjayaSandaruwan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DulanjayaSandaruwan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 </br>
 </br>
-
-<div align="center" 
-<i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
 
 <div align="center" 
 ### 🛠 &nbsp;Tech Stack
@@ -73,8 +68,6 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
   <!-- <a target="_blank" href="https://www.linkedin.com/in/gathsara-umesh-0475241a5/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/gathsaraumesh/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/gathsaraumesh.kumara">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/gathsarah">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
   </div>
 
 <a href="https://www.linkedin.com/in/gathsara-umesh-0475241a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
