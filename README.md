@@ -37,9 +37,11 @@
 
 <h3 align="left">My Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulanjayasandaruwan&show_icons=true&locale=en&layout=compact" alt="dulanjayasandaruwan" /></p>
+[comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasinthaDilshanJayarathne&langs_count=5&theme=gotham" alt="RasinthaDilshanJayarathne | My GitHub Language Stats" />)
+<p align="left"> <a href="https://github.com/RasinthaDilshanJayarathne/github-readme-stats"><img alt="RasinthaDilshanJayarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasinthaDilshanJayarathne&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulanjayasandaruwan&show_icons=true&locale=en" alt="dulanjayasandaruwan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayasandaruwan&" alt="dulanjayasandaruwan" /></p>
+[![](https://github-readme-streak-stats.herokuapp.com?user=RasinthaDilshanJayarathne&theme=soft-green)](https://git.io/streak-stats)
+
+<a href="https://github.com/RasinthaDilshanJayarathne/github-readme-activity-graph"><img alt="Rasintha Dilshan Jayarathne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RasinthaDilshanJayarathne&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
