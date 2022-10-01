@@ -37,11 +37,11 @@
 
 <h3 align="left">My Stats:</h3>
 
+<br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DulanjayaSandaruwan&show_icons=true&theme=gotham" alt="DulanjayaSandaruwan | Stats" />
+
 [comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulanjayaSandaruwan&langs_count=5&theme=gotham" alt="DulanjayaSandaruwan | My GitHub Language Stats" />)
 <p align="left"> <a href="https://github.com/DulanjayaSandaruwan/github-readme-stats"><img alt="DulanjayaSandaruwan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulanjayaSandaruwan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
-
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=DulanjayaSandaruwan&theme=soft-green)](https://git.io/streak-stats)
 
 <a href="https://github.com/DulanjayaSandaruwan/github-readme-activity-graph"><img alt="Dulanjaya Sandaruwan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DulanjayaSandaruwan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
