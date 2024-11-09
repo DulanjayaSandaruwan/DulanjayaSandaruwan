@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Dulanjaya Sandaruwan</h1>
-<h3 align="center">Hey! I'm Dulanjaya Sandaruwan, a 21 year old FullStack Java & Web developer from Rathnapura, Sri Lanka.I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!</h3>
+<h3 align="center">Hey! I'm Dulanjaya Sandaruwan, a 25 year old FullStack Java & Web developer from Rathnapura, Sri Lanka.I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanjayasandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="dulanjayasandaruwan" /> </p>
 
