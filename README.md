@@ -43,4 +43,34 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=DulanjayaSandaruwan&theme=soft-green)](https://git.io/streak-stats)
 
-<a href="https://github.com/DulanjayaSandaruwan/github-readme-activity-graph"><img alt="Dulanjaya Sandaruwan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DulanjayaSandaruwan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+I'm a passionate software engineer dedicated to leveraging technology to create meaningful solutions that positively impact the world and enhance people's lives. My expertise spans across various domains, including:
+
+- **Software Architecture**: I have a deep understanding of architectural patterns such as the Layered Architecture Pattern and Event-Driven Architecture.
+
+- **Backend Development**: Proficient in building scalable microservices using Spring Boot, gRPC, and Kafka.
+
+- **Frontend Development**: Experienced in Angular, focusing on modules, components, routing, and data binding.
+
+- **Cloud-Native Programming**: Exploring languages like Ballerina for integration in cloud-native applications.
+
+- **Testing and Monitoring**: Committed to mastering testing in Spring Boot and monitoring applications with Grafana.
+
+## Recent Articles
+
+I enjoy sharing knowledge through writing. Here are some of my recent articles:
+
+- [Monitoring Spring Boot Applications with Grafana](https://medium.com/@dulanjayasandaruwan1998/monitoring-spring-boot-applications-with-grafana-6d8b9c8e9f0b)
+
+- [Spring Doesn’t Recommend @Autowired Anymore](https://medium.com/@dulanjayasandaruwan1998/spring-doesnt-recommend-autowired-anymore-1a2b3c4d5e6f)
+
+- [Ballerina, The Cloud-Native Programming Language for Integration](https://medium.com/@dulanjayasandaruwan1998/ballerina-the-cloud-native-programming-language-for-integration-7e8f9g0h1i2j)
+
+## Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/dulanjaya-sandaruwan](https://www.linkedin.com/in/dulanjaya-sandaruwan/)
+
+- **Medium**: [medium.com/@dulanjayasandaruwan1998](https://medium.com/@dulanjayasandaruwan1998)
+
+Feel free to reach out if you'd like to collaborate or discuss technology and software development!
+
